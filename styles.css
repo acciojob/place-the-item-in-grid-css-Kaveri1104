@@ -4,5 +4,5 @@
 	display:grid;
 	width:200px;
 	grid-template-columns:repeat(2,auto);
-	grid-template-rows:repeat(2,auto);
+	grid-template-rows:repeat(2,100px,100px);
 }
